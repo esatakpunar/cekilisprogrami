@@ -1,0 +1,10 @@
+C:\Users\MONSTER\Desktop\ÇekilişProgramı\ÇekilişProgramı\bin\Debug\ÇekilişProgramı.exe.config
+C:\Users\MONSTER\Desktop\ÇekilişProgramı\ÇekilişProgramı\bin\Debug\ÇekilişProgramı.exe
+C:\Users\MONSTER\Desktop\ÇekilişProgramı\ÇekilişProgramı\bin\Debug\ÇekilişProgramı.pdb
+C:\Users\MONSTER\Desktop\ÇekilişProgramı\ÇekilişProgramı\obj\Debug\ÇekilişProgramı.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\ÇekilişProgramı\ÇekilişProgramı\obj\Debug\ÇekilişProgramı.Form1.resources
+C:\Users\MONSTER\Desktop\ÇekilişProgramı\ÇekilişProgramı\obj\Debug\ÇekilişProgramı.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\ÇekilişProgramı\ÇekilişProgramı\obj\Debug\ÇekilişProgramı.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\ÇekilişProgramı\ÇekilişProgramı\obj\Debug\ÇekilişProgramı.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\ÇekilişProgramı\ÇekilişProgramı\obj\Debug\ÇekilişProgramı.exe
+C:\Users\MONSTER\Desktop\ÇekilişProgramı\ÇekilişProgramı\obj\Debug\ÇekilişProgramı.pdb
